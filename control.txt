@@ -1,4 +1,4 @@
 isim,yaş,ülke,kategori
-doruk,25,Türkiye,Öğrenci
+moruk,25,Türkiye,Öğrenci
 Mehmet,30,Almanya,Mühendis
 Ayşe,28,Fransa,Doktor
