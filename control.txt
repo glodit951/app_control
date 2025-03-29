@@ -1,1 +1,4 @@
-ACTIVE
+isim,yaş,ülke,kategori
+Ahmet,25,Türkiye,Öğrenci
+Mehmet,30,Almanya,Mühendis
+Ayşe,28,Fransa,Doktor
