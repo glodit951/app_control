@@ -1,4 +1,1 @@
-isim,yaş,ülke,kategori
-para,25,Türkiye,Öğrenci
-Mehmet,30,Almanya,Mühendis
-Ayşe,28,Fransa,Doktor
+123321
